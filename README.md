@@ -39,7 +39,7 @@ Before running this application, ensure you have the following installed on your
 1. **Clone the repository** (or download the source code):
 
    ```bash
-   git clone https://github.com/yourusername/ytfetch.git
+   git clone https://github.com/shahzaibrasheed317/ytfetch.git
    cd ytfetch
    ```
 
